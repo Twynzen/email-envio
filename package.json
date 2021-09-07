@@ -1,0 +1,23 @@
+{
+  "name": "nodemailer",
+  "version": "1.0.0",
+  "description": "email-envio",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Twynzen/email-envio.git"
+  },
+  "author": "Daniel Castiblanco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Twynzen/email-envio/issues"
+  },
+  "homepage": "https://github.com/Twynzen/email-envio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.6.3"
+  }
+}
